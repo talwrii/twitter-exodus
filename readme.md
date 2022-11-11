@@ -1,6 +1,6 @@
 # The great twitter exodus - Why and how to leave twitter
 
-*First draft. Feedback and PRs welcome. But I thought it would be good to get something live*
+**First draft. Feedback and PRs welcome. But I thought it would be good to get something live**
 
 Elon musks purchase of twitter is making the headlines. Some think it is good some think it is bad.
 
@@ -11,7 +11,7 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 ** Cancelling [wfh polices](https://www.bloomberg.com/news/articles/2022-11-10/musk-s-first-email-to-twitter-staff-ends-remote-work) with limited notice
 ** Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk) 
 * This represents an opportunity for some new form of communication to develop
-* The new form of communication like mastodon might be more independent or have benefits outside of twitter
+* The new form of communication like mastodon might be more independent or have benefits outside of those on twitter
 
 ## Reasons not to leave twitter
 
