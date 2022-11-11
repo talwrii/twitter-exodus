@@ -21,6 +21,8 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 
 There are tools to help you exist both on mastodon and twitter (tools may exist for other services) too and share information between them.
 
+You automatically share tweets to and from mastodon  with  a [crossposter](crossposter.masto.donte.com.br)
+
 ## Related ideas
 
 * [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing it services for many reasons.
