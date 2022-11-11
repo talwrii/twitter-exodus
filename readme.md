@@ -23,9 +23,9 @@ There are tools to help you exist both on mastodon and twitter (tools may exist 
 
 You automatically share tweets to and from mastodon  with  a [crossposter](crossposter.masto.donte.com.br)
 
-## Related ideas
+## Related concepts and ideas.
 
-* [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing it services for many reasons.
+* [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing IT services for many reasons.
 * [Fediverse](https://en.wikipedia.org/wiki/Fediverse) the idea of replacing the centralized web services on which we depend (youtube, twitter, reddit) with federated equivalents with less centralized power.
 
 # Guides
@@ -44,7 +44,9 @@ How to sign up to mastodon:
 
 Other things you might like to do:
 
-* Import contacts
+* Import contacts from twitter
+* Automatically share posts [between twitter and mastodon](crossposter.masto.donte.com.br)
+
 
 ## Cool things on mastodon
 
