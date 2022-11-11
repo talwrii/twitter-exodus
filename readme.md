@@ -16,7 +16,8 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 ## Reasons not to leave twitter
 
 * People assert that big tech and its advertises are too influenced by certain ideas
-* Musk has expressed views regarding free speech that you may agree with with
+* Musk has expressed views regarding free speech that you may agree with
+* Our world has choices you can do what you want...
 
 ## You don't need to fully leave
 
