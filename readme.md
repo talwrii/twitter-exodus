@@ -31,10 +31,7 @@ You automatically share tweets to and from mastodon  with  a [crossposter](cross
 * [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing IT services for many reasons.
 * [Fediverse](https://en.wikipedia.org/wiki/Fediverse) the idea of replacing the centralized web services on which we depend (youtube, twitter, reddit) with federated equivalents with less centralized power.
 
-# Guides
 
-* [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
-* [Our guide to mastodon (tech.co)](https://tech.co/news/our-guide-to-mastodon)
 
 # Mastodon
 
@@ -53,3 +50,8 @@ Other things you might like to do:
 ## Cool things on mastodon
 
 * [A list of cool things on mastodon](https://github.com/tleb/awesome-mastodon)
+
+##  Guides
+
+* [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
+* [Our guide to mastodon (tech.co)](https://tech.co/news/our-guide-to-mastodon)
