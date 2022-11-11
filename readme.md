@@ -18,3 +18,20 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 ## Related ideas
 
 * [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing it services for many reasons.
+* [Fediverse](https://en.wikipedia.org/wiki/Fediverse) the idea of replacing the centralized web services on which we depend (youtube, twitter, reddit) with federated equivalents with less centralized power.
+
+
+# Mastodon
+
+Many twitter users [are signing up](https://www.theguardian.com/technology/2022/nov/08/mastodon-what-is-it-how-do-i-join-use-find-best-server-list-change-elon-musk-twitter-leaving-social-network-alternative) to [mastodon](https://mastodon.social) a federated service similar to twitter. 
+
+
+How to sign up to mastodon:
+
+* Go to mastodon.social, pick a server to sign up to.
+* Done. You can follow people from any other server and see tweets
+
+
+Other things you might like to to:
+
+* Import contacts
