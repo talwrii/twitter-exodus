@@ -28,7 +28,8 @@ There are tools to help you exist both on mastodon and twitter (tools may exist 
 
 # Guides
 
-* [Leaving twitter for mastodon](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
+* [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
+* [Our guide to mastodon (tech.co)](https://tech.co/news/our-guide-to-mastodon)
 
 # Mastodon
 
