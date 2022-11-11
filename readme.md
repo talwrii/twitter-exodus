@@ -45,7 +45,7 @@ How to sign up to mastodon:
 
 Other things you might like to do:
 
-* Import contacts from twitter
+* Import contacts from twitter using [debirdify](https://pruvisto.org/debirdify/)
 * Automatically share posts [between twitter and mastodon](crossposter.masto.donte.com.br)
 
 
