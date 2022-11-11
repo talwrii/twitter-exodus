@@ -1,5 +1,7 @@
 # The great twitter exodus - Why and how to leave twitter
 
+*First draft. Feedback and PRs welcome. But I thought it would be good to get something live*
+
 Elon musks purchase of twitter is making the headlines. Some think it is good some think it is bad.
 
 ## Reasons to leave twitter or diverse your solutions
@@ -13,7 +15,6 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 
 ## Reasons not to leave twitter
 
-* Musk might be leaving twitter
 * People assert that big tech and its advertises are too influenced by certain ideas
 * Musk has expressed views regarding free speech that you may agree with with
 
