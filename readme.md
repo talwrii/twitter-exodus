@@ -15,6 +15,10 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * People assert that big tech and its advertises are too influenced by certain ideas
 * Musk has expressed views regarding free speech that you may agree with with
 
+## You don't need to fully leave
+
+There are tools to help you exist both on mastodon and twitter (tools may exist for other services) too and share information between them.
+
 ## Related ideas
 
 * [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing it services for many reasons.
