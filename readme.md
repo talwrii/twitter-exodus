@@ -68,7 +68,7 @@ Things that you might have to do
 * The server you sign up to can provide some control over content moderation. If you dislike their policies you can move elsewhere
 * The federated nature of mastodon may well make it better for tooling
 * The servers makes the function of mastodon potentially easier to understand and harder for governments to control, while at the same time making it easier for individuals to have choice over the policies of their servers regarding things like content moderation.
-
+* [mastodon has rss feeds](https://mastodon.social/@brownpau/100523448408374430) unlike twitter that lets other people interact with toots in different ways.
 
 ## Limitations of mastodon and work arounds
 
