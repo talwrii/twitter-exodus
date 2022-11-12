@@ -67,6 +67,8 @@ This will likely be the biggest limitation of mastodon compared to twitter. This
 
 The additional control that comes with mastodon may not be a bad thing, but the problem of recommendation is something that needs to be solved. 
 
+Apparently, one work around for this is the [use of hashtags](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#why-are-hashtags-so-important) 
+
 ## Cool things on mastodon
 
 * [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
@@ -75,3 +77,4 @@ The additional control that comes with mastodon may not be a bad thing, but the 
 
 * [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
 * [Our guide to mastodon (tech.co)](https://tech.co/news/our-guide-to-mastodon)
+* [Everything I know about Mastodon](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#why-are-hashtags-so-important). Seems quite similar to this page but in blog form. 
