@@ -10,6 +10,7 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * Musk is not necessary treating his employees at twitter with respect
 * * Cancelling [wfh polices](https://www.bloomberg.com/news/articles/2022-11-10/musk-s-first-email-to-twitter-staff-ends-remote-work) with limited notice
 * * Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk) 
+* The exodus of employees for twitter as well as policies [may lead to functionality problems](https://www.zdnet.com/article/why-twitter-will-fail-shortly/) 
 * This represents an opportunity for some new form of communication to develop
 * The new form of communication like mastodon might be more independent or have benefits outside of those on twitter
 * Other people are doing it ([apparently half a million](https://mastodon.social/@Gargron/109300967725833789) in Oct/Nov 2022) it and it might exciting and enjoyable. 
