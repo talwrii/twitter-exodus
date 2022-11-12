@@ -12,7 +12,7 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * * Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk) 
 * This represents an opportunity for some new form of communication to develop
 * The new form of communication like mastodon might be more independent or have benefits outside of those on twitter
-* Other people are doing ([apparently half a million](https://mastodon.social/@Gargron/109300967725833789) in Oct/Nov 2022) it and it might exciting and enjoyable. 
+* Other people are doing iy ([apparently half a million](https://mastodon.social/@Gargron/109300967725833789) in Oct/Nov 2022) it and it might exciting and enjoyable. 
 
 ## Reasons not to leave twitter
 
@@ -28,10 +28,8 @@ You automatically share tweets to and from mastodon  with  a [crossposter](cross
 
 ## Related concepts and ideas.
 
-* [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing IT services for many reasons.
+* [Redecentralize](https://redecentralize.org/about/) the concept of decentralizing IT services for many reasons include power, control and risk-mitigation
 * [Fediverse](https://en.wikipedia.org/wiki/Fediverse) the idea of replacing the centralized web services on which we depend (youtube, twitter, reddit) with federated equivalents with less centralized power.
-
-
 
 # Mastodon
 
