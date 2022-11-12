@@ -49,6 +49,12 @@ Other things you might like to do:
 
 * [A list of cool things on mastodon](https://github.com/tleb/awesome-mastodon)
 
+## Discovering new people and information
+
+This will likely be the biggest limitation of mastodon compared to twitter. This is because people at twitter are paid to do this and there is a centralized pool of data that well-paid data scientists (who are perhaps considering leaving) can use to recommend you content you like. Twitter are also incentivised to maximize the amount of time people spend on their site.
+
+The additional control that comes with mastodon may not be a bad thing, but the problem of recommendation is something that needs to be solved. 
+
 ##  Guides
 
 * [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
