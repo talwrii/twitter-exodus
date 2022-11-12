@@ -1,8 +1,15 @@
 # The great twitter exodus - Why and how to leave twitter
 
+## tl; dr
+
+If you want something like twitter go to https:://mastodon.social/, click sign up, pick a server at random and follow people. It is sort of like twitter but worse. 
+
+
 **First draft. Feedback and PRs welcome. But I thought it would be good to get something live**
 
 Elon musks purchase of twitter is making the headlines. Some think it is good some think it is bad.
+
+
 
 ## Reasons to leave twitter or diversify your tweeting
 
