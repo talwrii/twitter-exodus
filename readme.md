@@ -2,10 +2,9 @@
 
 ## Too long.... don't want to read
 
-*If you want something like twitter go to https:://mastodon.social/, click sign up, pick a server at random and follow people. It is sort of like twitter but worse. Google for things that you want to do, there might well be ways of doing them.*
+*If you want something like twitter go to https:://mastodon.social/, click sign up, pick a server at random and follow people. It is sort of like twitter but worse. Google for things that you want to do, there might well be ways of doing them.* Here is a [FAQ about mastodon](https://github.com/joyeusenoelle/GuideToMastodon)
 
-If you like reading... read on. 
-
+If you like reading... read on.
 
 **First draft. Feedback and PRs welcome. But I thought it would be good to get something live**
 
@@ -62,6 +61,8 @@ Things that you might have to do
 
 * [Move accounts to a different server if the server is slow](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#how-do-i-move-my-account-to-a-new-server)
 
+This is a link to [an extended guide](https://github.com/joyeusenoelle/GuideToMastodon.
+
 ## Additional benefits to switching to mastodon
 
 * The servers you might sign up to might form a group of people or be part of an identity you value.
@@ -96,8 +97,15 @@ There is a question about how these servers get funded. They might be based arou
 ## Cool things on mastodon
 * [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
 
+## Verification
+
+Fowler argues that membership of a server can act as a form of verification, and argue that there might be an economy of verification in terms of servers. [*](https://martinfowler.com/articles/exploring-mastodon.html). 
+
+Websites are also able to verify you and you can
 
 ##  Guides
+
+* [Martin Fowler](https://martinfowler.com/articles/exploring-mastodon.html)
 
 * [Leaving twitter for mastodon (pcmag)](https://uk.pcmag.com/social-media/140040/how-to-leave-twitter-for-mastodon) 
 * [Our guide to mastodon (tech.co)](https://tech.co/news/our-guide-to-mastodon)
