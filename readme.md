@@ -1,8 +1,8 @@
 # The great twitter exodus - Why and how to leave twitter
 
-## Too long.... don't wnat to read
+## Too long.... don't want to read
 
-If you want something like twitter go to https:://mastodon.social/, click sign up, pick a server at random and follow people. It is sort of like twitter but worse. Google for things that you want to do, there might well be ways of doing them.
+*If you want something like twitter go to https:://mastodon.social/, click sign up, pick a server at random and follow people. It is sort of like twitter but worse. Google for things that you want to do, there might well be ways of doing them.*
 
 If you like reading... read on. 
 
