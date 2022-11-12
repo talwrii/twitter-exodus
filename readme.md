@@ -12,7 +12,7 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * * Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk) 
 * This represents an opportunity for some new form of communication to develop
 * The new form of communication like mastodon might be more independent or have benefits outside of those on twitter
-* Other people are doing iy ([apparently half a million](https://mastodon.social/@Gargron/109300967725833789) in Oct/Nov 2022) it and it might exciting and enjoyable. 
+* Other people are doing it ([apparently half a million](https://mastodon.social/@Gargron/109300967725833789) in Oct/Nov 2022) it and it might exciting and enjoyable. 
 
 ## Reasons not to leave twitter
 
@@ -24,7 +24,7 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 
 There are tools to help you exist both on mastodon and twitter (tools may exist for other services) too and share information between them.
 
-You automatically share tweets to and from mastodon  with  a [crossposter](crossposter.masto.donte.com.br)
+You automatically share tweets to and from mastodon with a [crossposter](crossposter.masto.donte.com.br). 
 
 ## Related concepts and ideas.
 
