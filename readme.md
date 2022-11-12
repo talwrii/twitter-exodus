@@ -9,7 +9,8 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * Musk is the wealthiest man in the world and has too much influence
 * Musk is not necessary treating his employees at twitter with respect
 * * Cancelling [wfh polices](https://www.bloomberg.com/news/articles/2022-11-10/musk-s-first-email-to-twitter-staff-ends-remote-work) with limited notice
-* * Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk) 
+* * Firing a lot of people [some claim with insufficient notice](https://www.latimes.com/entertainment-arts/story/2022-11-04/twitter-layoffs-employee-tweets-elon-musk)
+* Musk may have [borrowed against the value of the company](https://news.bloomberglaw.com/esg/musk-risks-battle-royale-with-creditors-as-he-remakes-twitter) to fund his purchase placing the company at a higher risk of bankruptcy. This might be a reason for the cost cutting enterprise
 * The exodus of employees for twitter as well as policies [may lead to functionality problems](https://www.zdnet.com/article/why-twitter-will-fail-shortly/) 
 * This represents an opportunity for some new form of communication to develop
 * The new form of communication like mastodon might be more independent or have benefits outside of those on twitter
@@ -20,6 +21,8 @@ Elon musks purchase of twitter is making the headlines. Some think it is good so
 * People assert that big tech and its advertises are too influenced by certain ideas
 * Musk has expressed views regarding free speech that you may agree with
 * Our world has choices you can do what you want...
+* Musk may well have interesting ideas
+* Much of musks decision making is visible. The incentives and behaviour of other people in charge may not have been fundamentally different - just slowe and less visible
 
 ## You don't need to fully leave
 
