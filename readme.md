@@ -45,15 +45,27 @@ Other things you might like to do:
 * Import contacts from twitter using [debirdify](https://pruvisto.org/debirdify/)
 * Automatically share posts [between twitter and mastodon](crossposter.masto.donte.com.br)
 
-## Cool things on mastodon
+## Additional benefits to switching to mastodon
 
-* [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
+* The servers you might sign up to might form a group of people or be part of an identity you value.
+* The server you sign up to can provide some control over content moderation. If you dislike their policies you can move elsewhere
+* The federated nature of mastodon may well make it better for tooling
+* The servers makes the function of mastodon potentially easier to understand and harder for governments to control, while at the same time making it easier for individuals to have choice over the policies of their servers regarding things like content moderation.
 
-## Discovering new people and information
+
+## Limitations of mastodon and work arounds
+
+### The people you want to follow might be on twitter
+
+### Discovering new people and information
 
 This will likely be the biggest limitation of mastodon compared to twitter. This is because people at twitter are paid to do this and there is a centralized pool of data that well-paid data scientists (who are perhaps considering leaving) can use to recommend you content you like. Twitter are also incentivised to maximize the amount of time people spend on their site.
 
 The additional control that comes with mastodon may not be a bad thing, but the problem of recommendation is something that needs to be solved. 
+
+## Cool things on mastodon
+
+* [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
 
 ##  Guides
 
