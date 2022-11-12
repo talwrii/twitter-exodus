@@ -72,6 +72,8 @@ Things that you might have to do
 
 ## Limitations of mastodon and work arounds
 
+See also: [forbes: mastodon isn't a replacement for twitter...](https://www.forbes.com/sites/rashishrivastava/2022/11/04/mastodon-isnt-a-replacement-for-twitterbut-it-has-rewards-of-its-own/?sh=5011cfc2a6eb)
+
 ### There doesn't seem to be a user search built in to mastodon
 
 You can use this site: https://search.noc.social/ which search across many sites.
@@ -87,15 +89,13 @@ The additional control that comes with mastodon may not be a bad thing, but the 
 Apparently, one work around for this is the [use of hashtags](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#why-are-hashtags-so-important) 
 
 ## How is the server you are on maintained
-
 With twitter a company uses lots of money to employ people to run servers. In exchange these people advertise to you and use the data you provide to make money. This is not the case of mastodon where individuals run servers for whatever reason. 
 
 There is a question about how these servers get funded. They might be based around activity or clubs and people interested in these activities might provide funding. 
 
-
 ## Cool things on mastodon
-
 * [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
+
 
 ##  Guides
 
