@@ -82,7 +82,7 @@ You can use this site: https://search.noc.social/ which search across many sites
 
 This will likely be the biggest limitation of mastodon compared to twitter. This is because people at twitter are paid to do this and there is a centralized pool of data that well-paid data scientists (who are perhaps considering leaving) can use to recommend you content you like. Twitter are also incentivised to maximize the amount of time people spend on their site.
 
-The additional control that comes with mastodon may not be a bad thing, but the problem of recommendation is something that needs to be solved. 
+The additional control that comes with mastodon may not be a bad thing, but the problem of recommendation is something that needs to be solved. There was a [paper on this in 2018](https://djoerdhiemstra.com/2018/whom-to-follow-on-mastodon/) but there doesn't seem to be an implementation. 
 
 Apparently, one work around for this is the [use of hashtags](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/#why-are-hashtags-so-important) 
 
