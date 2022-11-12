@@ -47,7 +47,7 @@ Other things you might like to do:
 
 ## Cool things on mastodon
 
-* [A list of cool things on mastodon](https://github.com/tleb/awesome-mastodon)
+* [A list of cool services, programs and software libraries surrounding mastodon](https://github.com/tleb/awesome-mastodon)
 
 ## Discovering new people and information
 
