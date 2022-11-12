@@ -72,6 +72,10 @@ Things that you might have to do
 
 ## Limitations of mastodon and work arounds
 
+### There doesn't seem to be a user search built in to mastodon
+
+You can use this site: https://search.noc.social/ which search across many sites.
+
 ### The people you want to follow might be on twitter
 
 ### Discovering new people and information
